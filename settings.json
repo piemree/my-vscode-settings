@@ -1,0 +1,66 @@
+{
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontLigatures": null,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx" 
+    },
+    "emmet.includeLanguages": {
+        "javascript": "html"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "tabnine.experimentalAutoImports": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontWeight": "600",
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#ffff00",
+        "terminalCursor.foreground": "#ffff00"
+    },
+    "editor.cursorStyle": "block",
+    "editor.suggestSelection": "first",
+   
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "redhat.telemetry.enabled": true,
+    "java.project.importOnFirstTimeStartup": "automatic",
+    "workbench.startupEditor": "none",
+    "git.autofetch": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "explorer.confirmDelete": false,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": true
+    },
+    "editor.quickSuggestions": {
+        "comments": true,
+        "strings": true,
+        "other": true
+    },
+    "editor.quickSuggestionsDelay": 1,
+    "github.copilot.advanced": {
+    
+    },
+    
+    "editor.codeActionsOnSave": null,
+    "php.validate.executablePath":  "/usr/bin/php",
+    "intelephense.format.enable": true,
+    "files.autoSave": "afterDelay",
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.minimap.enabled": false
+}
